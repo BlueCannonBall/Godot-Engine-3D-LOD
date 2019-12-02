@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333331"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="C:\Users\Hamudik\Desktop\MM Files\Godot-3D\LODnode\logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="icon.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="31.678384"
+     inkscape:cx="9.161195"
+     inkscape:cy="8.6339105"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.47732654,-292.51075)">
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#fc9c9c;fill-opacity:0;stroke:#fc9c9c;stroke-width:0.53289258;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.9848485"
+       id="path877"
+       sodipodi:sides="5"
+       sodipodi:cx="3.0712981"
+       sodipodi:cy="295.28851"
+       sodipodi:r1="1.4039211"
+       sodipodi:r2="0.67785823"
+       sodipodi:arg1="-1.6332151"
+       sodipodi:arg2="0.091267838"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 2.983724,293.88733 0.7626111,1.46296 0.6305093,-0.57806 -1.1557054,1.17737 0.7446052,0.42102 -1.4768763,-0.73531 -0.1703179,0.83826 0.2429456,-1.63182 -0.8498675,0.0971 1.627025,-0.2732 z"
+       inkscape:transform-center-x="0.027062222"
+       inkscape:transform-center-y="-0.10818564" />
+    <g
+       transform="matrix(0.15401926,0,0,0.15401926,0.42428928,132.68841)"
+       id="layer1-1"
+       inkscape:label="Layer 1">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4272"
+         d="M 9,1038.3622 A 3.0000174,3.0000174 0 0 0 6.0117188,1041.1396 2.9999828,2.9999828 0 0 0 4,1040.3622 a 2.9999828,2.9999828 0 0 0 -3,3 2.9999828,2.9999828 0 0 0 2,2.8243 v 2.1757 c 0,0.554 0.4459904,1 1,1 h 6 c 0.55401,0 1,-0.446 1,-1 v -1 l 3,2 v -6 l -3,2 v -1.7695 a 3.0000174,3.0000174 0 0 0 1,-2.2305 3.0000174,3.0000174 0 0 0 -3,-3 z"
+         style="fill:#fc9c9c;fill-opacity:1;stroke:none;stroke-width:2.99998283;stroke-linecap:round;stroke-linejoin:round" />
+    </g>
+  </g>
+</svg>
