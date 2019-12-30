@@ -4,7 +4,7 @@ class_name LOD, "icon.svg"
 # Export Variables
 export(NodePath) var lod0
 export(NodePath) var lod1
-export(NodePath) var lod2 # Leave LOD 2 and/or 3 blank if they are unused.
+export(NodePath) var lod2 # Leave LOD 1 and/or 2 blank if they are unused.
 
 export(float) var lod1_min_distance = 150
 export(float) var lod2_min_distance = 300
